@@ -8,11 +8,11 @@
     <title>Technology and Society</title>
 
     <p id="head">
-        <span id="Name"> The Chambord castle</span>
+        <div id="Name"> The Chambord castle</div>
         <img class="CastleImage" src="Chambord.png" alt="Chambord castle"></img> 
     </p>
     <div class="navbar">
-        <a href="Home_page.html">Welcome Page</a>
+        <a href="index.html">Welcome Page</a>
         <a href="Booking_page.html">Booking Page</a>
         <a  href="Menu_page.html">Restaurant Menu</a>
         <a href="Accessibility_page.html">Accessibilty Page</a>
