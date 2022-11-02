@@ -98,7 +98,32 @@
     font-weight:bold;
 }
 
+/*Title for booking page*/
+.book_h1 {
+    font-size:250%;
+    text-align: center;
+    font-weight: bold;
+}
 
+/*Title for booking page*/
+.book_h2 {
+    font-size:200%;
+    text-align: center;
+    font-weight: bold;
+}
+
+/*Title for booking page*/
+.book_h3 {
+    font-size:150%;
+    text-align: center;
+    font-weight: bold;
+}
+
+/*Title for booking page*/
+.book_main {
+    text-align:center;
+    font-size: larger;
+}
 
 
 
