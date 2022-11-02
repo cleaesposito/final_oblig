@@ -125,5 +125,58 @@
     font-size: larger;
 }
 
+/*For side style start*/
+.bodyForside{
+    background-image: url('background_picture.jpg');
+    background-attachment: unset;
+    background-position: center;
+}
+/*For side style*/
+.flex-container {
+    width: 80%;
+    margin: 10%;
+    font-family: Georgia, serif;
+    color: rgb(13, 13, 64);
+    display: flexbox;
+    background-color: rgba(244, 240, 236, 0.77);
+}
+/*For side style*/
+.navBarForside a.active {
+    background-color: #3b3b32;
+    color: white;
+}
+/*For side style*/
+.navBarForside {
+    background-color: rgba(79, 67, 72, 0.475);
+    overflow: hidden;
+}
+/*For side style*/
+.navBarForside a {
+    float: left;
+    color: #1b1818;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+/*For side style*/
+.navBarForside a:hover {
+    background-color: rgb(99, 101, 103);
+    color: rgb(65, 12, 213);
+}
+/*For side style*/
+#intro::first-letter {
+    line-height: 25px;
+    font-size: 50px;
+    float: left;
+    font-family: Georgia, serif;
+}
+/*For side style end*/
+
+@media (max-width: 680px) {
+    .navBarForside {
+        display: grid;
+    }
+}
 
 
