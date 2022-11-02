@@ -6,3 +6,7 @@ https://th.bing.com/th/id/R.d989d208525e40262007b7cad0d195c7?rik=5wo77v9tqdNx5w&
 https://th.bing.com/th/id/R.10e46fb82c5e4fde05ca94f5dc280f6c?rik=nLWAAIqceEqc7w&pid=ImgRaw&r=0
 https://pics.clipartpng.com/idownload-image.php?file=Table_Fork_and_Knife_PNG_Clipart-414.png
 https://www.valdeloire-france.com/sites/default/files/actualites/chambre-de-parade.jpg
+
+
+Page 5:
+https://www.multek.com/sites/default/files/styles/slick_slides/public/2017-09/tech-banner-03.jpg?itok=6r2iOoyJ
