@@ -133,8 +133,7 @@
 }
 /*For side style*/
 .flex-container {
-    width: 80%;
-    margin: 10%;
+    margin: 5%;
     font-family: Georgia, serif;
     color: rgb(13, 13, 64);
     display: flexbox;
