@@ -12,19 +12,13 @@ h3 {
     background-image: url();
 }
 
-body {
-    background-image: url("caffe.jpg");
-    background-attachment: fixed;
-    background-size: cover;
-}
-
 .navbar a.active {
-    background-color: #404845;
+    background-color: #010e09;
     color: white;
 }
 
 .navbar {
-    background-color: rgb(32, 34, 9);
+    background-color: rgb(140, 14, 60);
     overflow: hidden;
 }
 
@@ -38,8 +32,8 @@ body {
 }
 
 .navbar a:hover {
-    background-color: rgb(74, 126, 162);
-    color: black;
+    background-color: rgb(83, 12, 35);
+    color: rgb(50, 127, 182);
 }
 
 #Name {
