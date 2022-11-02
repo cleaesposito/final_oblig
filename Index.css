@@ -1,0 +1,104 @@
+/* navbar definition */
+.navbar a.active {
+    background-color: #010e09;
+    color: white;
+}
+
+.navbar {
+    background-color: rgb(140, 14, 60);
+    overflow: hidden;
+}
+
+.navbar a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.navbar a:hover {
+    background-color: rgb(83, 12, 35);
+    color: rgb(50, 127, 182);
+}
+
+/* Title in the head */
+.Name {
+    font-size: 540%;
+    color: rgb(203, 35, 57);
+    font-family: Brush Script MT;
+    text-align:center;
+}
+
+/* Head definition */
+.head {
+    background-image: url("OIP.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+/* Foot definition */
+.foot {
+    font-family: Brush Script MT”;
+    text-align: center;
+    font-size: 500%;
+    color: rgb(203, 35, 57);
+    font-family: Brush Script MT;
+}
+
+/* White castle image */
+.CastleImage {
+    max-width:100%;
+    width: 40%;
+    display: block;
+    margin: 0px auto;
+}
+
+/* Dishes definition in menu page */
+.food {
+    color: rgb(14, 72, 49);
+    text-align: center;
+}
+
+/* Price definition in menu page */
+.price {
+    color: rgb(203, 91, 124);
+    text-align: center;
+    font-size:larger;
+}
+
+/* rotating fork in menu page */
+@keyframes rotating {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.rotating {
+    animation: rotating 2s linear infinite;
+}
+
+/* Wine Image definition in menu page*/
+#WineImage {
+    height: 100px;
+    width: 80px;
+    display: block;
+    margin: 0px auto;
+}
+
+/* Titles in menu page */
+.Menu_Title {
+    text-align:center;
+    font-size:larger;
+    font-weight:bold;
+}
+
+
+
+
+
