@@ -176,6 +176,11 @@
     .navBarForside {
         display: grid;
     }
+    .navbar{
+        display: grid; 
+    }
 }
+
+
 
 
